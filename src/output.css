@@ -195,9 +195,6 @@
   .w-44 {
     width: calc(var(--spacing) * 44);
   }
-  .w-100 {
-    width: calc(var(--spacing) * 100);
-  }
   .w-auto {
     width: auto;
   }
@@ -242,9 +239,6 @@
   }
   .gap-5 {
     gap: calc(var(--spacing) * 5);
-  }
-  .self-center {
-    align-self: center;
   }
   .self-start {
     align-self: flex-start;
